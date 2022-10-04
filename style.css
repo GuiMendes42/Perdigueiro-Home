@@ -84,10 +84,13 @@ body {
     font-weight: 400;
     font-size: 24px;
     color: rgba(103, 64, 38);
+    transition: 1s all;
+    cursor: pointer;
 }
 
 .main-content-text-button:hover {
-    background-color: rgba(103, 64, 38);
+    background-color: rgba(180, 180, 180);
+    transform: scale(1.2);
 }
 
 .main-content-img {
