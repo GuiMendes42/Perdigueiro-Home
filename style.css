@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -30,10 +32,11 @@ body {
 }
 
 .head-menu-item {
-    font-family: 'Sarala', sans-serif;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
     color: rgba(239, 234, 224);
     font-weight: 400;
-    font-size: 18px;
+    font-size: 24px;
 }
 
 .content {
@@ -64,7 +67,7 @@ body {
 }
 
 .main-content-text-subtitle {
-    font-family: 'Sarala', sans-serif;
+    font-family: 'Poiret One', cursive;
     font-weight: 400;
     font-size: 24px;
     color: rgba(239, 234, 224);
@@ -77,7 +80,7 @@ body {
     border: none;
     box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
-    font-family: 'Sarala', sans-serif;
+    font-family: 'BourbonGrotesque';
     font-weight: 400;
     font-size: 24px;
     color: rgba(103, 64, 38);
@@ -103,16 +106,16 @@ body {
 .minor-content-title {
     border-top: 0.4px solid rgba(239, 234, 224);
     padding-top: 48px;
-    font-family: 'Righteous', cursive;
-    font-weight: 400;
-    font-size: 24px;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+    font-size: 32px;
     color: rgba(103, 64, 38);
     margin-bottom: 16px;
 }
 
 .minor-content-text {
-    font-family: 'Sarala', sans-serif;
-    font-weight: 300;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
     font-size: 18px;
     color: rgba(103, 64, 38);
 }
