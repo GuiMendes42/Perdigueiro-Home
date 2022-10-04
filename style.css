@@ -80,11 +80,11 @@ body {
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
     font-size: 24px;
-    color: #2F2325S;
+    color: rgba(103, 64, 38);
 }
 
 .main-content-text-button:hover {
-    background-color: rgba(236, 214, 196, 0.53);
+    background-color: rgba(103, 64, 38);
 }
 
 .main-content-img {
