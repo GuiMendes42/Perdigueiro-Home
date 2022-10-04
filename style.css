@@ -22,9 +22,8 @@ body {
 }
 
 .logo-img {
-    height: 20%;
-    width: 20%;
-    object-fit: contain;
+    height: 10%;
+    width: 10%;
 }
 
 .head-menu {
