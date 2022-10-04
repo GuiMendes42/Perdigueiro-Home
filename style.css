@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
-
 * {
     margin: 0;
     padding: 0;
@@ -33,14 +31,14 @@ body {
 
 .head-menu-item {
     font-family: 'Sarala', sans-serif;
-    color: #FFF2E7;
+    color: rgba(239, 234, 224);
     font-weight: 400;
     font-size: 18px;
 }
 
 .content {
     margin-bottom: 48px;
-    border-top: 0.4px solid #FFF2E7;
+    border-top: 0.4px solid rgba(239, 234, 224);
     background-color: rgba(207, 59, 35);
 
 }
@@ -59,21 +57,21 @@ body {
 }
 
 .main-content-text-title {
-    font-family: 'Righteous', cursive;
+    font-family: 'gin';
     font-weight: 400;
     font-size: 64px;
-    color: #FFF2E7;
+    color: rgba(239, 234, 224);
 }
 
 .main-content-text-subtitle {
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
     font-size: 24px;
-    color: #ECD6C4;
+    color: rgba(239, 234, 224);
 }
 
 .main-content-text-button {
-    background-color: #ECD6C4;
+    background-color: rgba(239, 234, 224);
     width: 180px;
     height: 60px;
     border: none;
@@ -103,7 +101,7 @@ body {
 }
 
 .minor-content-title {
-    border-top: 0.4px solid #FFF2E7;
+    border-top: 0.4px solid rgba(239, 234, 224);
     padding-top: 48px;
     font-family: 'Righteous', cursive;
     font-weight: 400;
@@ -121,7 +119,7 @@ body {
 
 .baseboard {
     padding: 32px;
-    border-top: 0.4px solid #FFF2E7;
+    border-top: 0.4px solid rgba(239, 234, 224);
     background: rgba(239, 234, 224);
 }
 
